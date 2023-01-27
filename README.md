@@ -34,4 +34,5 @@
 | TypeScript         | `SVG`  | [URL](https://raw.githubusercontent.com/itispx/assets/0d5c008190a27279b4e4afdbbec79f900ce79d4f/svgs/typescript.svg)     |
 | Visual Studio Code | `SVG`  | [URL](https://raw.githubusercontent.com/itispx/assets/0d5c008190a27279b4e4afdbbec79f900ce79d4f/svgs/vscode.svg)         |
 | Webpack            | `SVG`  | [URL](https://raw.githubusercontent.com/itispx/assets/0d5c008190a27279b4e4afdbbec79f900ce79d4f/svgs/webpack.svg)        |
+| Zod                | `SVG`  | [URL](https://raw.githubusercontent.com/itispx/assets/0fd248942dd32e625fb3fc3d7d19fa6353a30021/svgs/zod.svg)            |
 | Zustand            | `SVG`  | [URL](https://raw.githubusercontent.com/itispx/assets/0d5c008190a27279b4e4afdbbec79f900ce79d4f/svgs/zustand.svg)        |
